@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a6bfa32fe23d43fe9233b9ea3f01ac2, type: 3}
+  m_Name: Well
+  m_EditorClassIdentifier: 
+  Description: Heal complete HP
+  Image: {fileID: 21300000, guid: 1672075c0c3304b4093f3346316f874e, type: 3}
+  SelectedFunction: 0
